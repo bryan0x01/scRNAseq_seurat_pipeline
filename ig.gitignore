@@ -1,0 +1,15 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# macOS
+.DS_Store
+
+# output folders
+outputs/
+data/processed/
+
+# temporary files
+*.log
+*.tmp
